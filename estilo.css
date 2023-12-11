@@ -1,0 +1,12 @@
+body {
+	background-image: url("restaurante.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.bienvenida {
+	color: rgb(230, 52, 14);
+}
+.info {
+	color: rgb(135, 139, 255);
+}
